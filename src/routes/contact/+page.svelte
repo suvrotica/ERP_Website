@@ -15,9 +15,8 @@
         <div class="row">
             <h1 class="display-6">How to reach <span class="badge bg-secondary">Shertatech</span></h1>
             <div class="col d-sm-block d-lg-inline">
-                <iframe
-                    title="map" src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d7268.647124176488!2d54.48219366938047!3d24.370045080222354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sBuilding%20No%2081%2C%20Musaffah%20M16%2C%20Abu%20Dhabi%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2sae!4v1669128410685!5m2!1sen!2sae"
-                    width="400" height="450"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3634.3309853447195!2d54.483005581522015!3d24.369786730990512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sbuilding%20no%2081%2C%20musaffah%20m16%2C%20abu%20dhabi%20-%20united%20arab%20emirates!5e0!3m2!1sen!2sae!4v1669823698253!5m2!1sen!2sae" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Shertatech Google Map"></iframe>
+                
             </div>
             <div class="col">
 
