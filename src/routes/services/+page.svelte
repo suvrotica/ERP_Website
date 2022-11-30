@@ -30,8 +30,8 @@
           </p>
     </div>
     <div class="row">
-        <div class="col-4">
-            <h1 class="display-6">Big Bang <span class="badge bg-secondary">Approach 1</span></h1>
+        <div class="col-lg-12">
+            <h1 class="display-6">Big Bang <span class="badge bg-secondary">Approach</span></h1>
             <p class="small text-muted mt-2" align="justify">
                 In this strategy, companies layout a grand plan for their ERP implementation. The installation of ERP systems of all modules happens across the entire organization at once. The big bang approach promised to reduce the integration cost in conditions of thorough and careful execution. This method dominated early ERP implementations and it partially contributed to the higher rate of failure in its implementation.
             </p>
@@ -42,12 +42,7 @@
                 In the big bang strategy, the company moves from the existing or legacy system to the new ERP system on a specific date. All the business functions performed in the legacy system across the entire enterprise are simultaneously transferred to the new legacy system during a period of one day or a weekend. The big bang strategy is seldom used and often not recommended by ERP vendors, systems integrators, and service providers. Many companies struggle in deciding whether the big bang approach is the right choice for their company.
             </p>
         </div>
-        <div class="col-4">
-            
-        </div>
-        <div class="col-4">
-            
-        </div>
+        
     </div>
 </section>
 
