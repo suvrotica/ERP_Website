@@ -18,7 +18,7 @@
                 <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3634.3309853447195!2d54.483005581522015!3d24.369786730990512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sbuilding%20no%2081%2C%20musaffah%20m16%2C%20abu%20dhabi%20-%20united%20arab%20emirates!5e0!3m2!1sen!2sae!4v1669823698253!5m2!1sen!2sae" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Shertatech Google Map"></iframe>
                 
             </div>
-            <div class="col-lg-8">
+            <div class="col-lg-8 d-sm-block d-lg-inline">
 
 
                 <p class="small" align="justify">Abu Dhabi is an Emirates city, located in the Eastern coast of the
