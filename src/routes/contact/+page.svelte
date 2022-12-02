@@ -15,7 +15,9 @@
         <div class="row">
             <h1 class="display-6">How to reach <span class="badge bg-secondary">Shertatech</span></h1>
             <div class="col-lg-4 d-sm-block d-lg-inline">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3634.3309853447195!2d54.483005581522015!3d24.369786730990512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sbuilding%20no%2081%2C%20musaffah%20m16%2C%20abu%20dhabi%20-%20united%20arab%20emirates!5e0!3m2!1sen!2sae!4v1669823698253!5m2!1sen!2sae" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Shertatech Google Map"></iframe>
+                <a href="https://goo.gl/maps/Yc2V3aF9svxR6KMu7"><img class="img-fluid" src="./img/loc.jpeg" alt="shertatech location"></a>
+                
+                
                 
             </div>
             <div class="col-lg-8 d-sm-block d-lg-inline">
@@ -25,8 +27,7 @@
                     Arabian Peninsula-the capital city.
                     The city is cosmopolitan and fast-paced. It has a heavy work culture and high average income. The
                     cuisine is varied and international. Everyone is a workaholic, making it one of the busiest cities
-                    in the world.</p>
-                <p class="small" align="justify">
+                    in the world.
                     In a city of cosmopolitans and workaholics, it is not surprising that many people are looking for
                     the nearest coffeeshop to work at. Our office in Abu Dhabi aims to provide the best place for people
                     to do their work.
@@ -38,11 +39,11 @@
                 </p>
                 <div>
 
-                    <div class="lead">sales@shertatechservices.com</div>
-                    <div class="lead">+971 2 555 8686</div>
-                    <div class="lead">+971 50 211 3555</div>
-                    <div class="lead">Office No 18, Building No 81,</div>
-                    <div class="lead">Musaffah M16, Abu Dhabi, UAE</div>
+                    <div class="small">sales@shertatechservices.com</div>
+                    <div class="small">+971 2 555 8686</div>
+                    <div class="small">+971 50 211 3555</div>
+                    <div class="small">Office No 18, Building No 81,</div>
+                    <div class="small">Musaffah M16, Abu Dhabi, UAE</div>
                     <div class="mt-2">
                         <a href="https://wa.me/+971505340345" target="_blank" rel="noreferrer"
                             class="btn btn-sm btn-success text-light"><i class="bi bi-whatsapp"></i> Whatsapp</a>
@@ -93,7 +94,7 @@
                     <div class="text-start">
                         <h2 class="p display-6 py-2">Get in Touch</h2>
 
-                        <p class="lead">Fill out the form to contact Shertatech directly...</p>
+                        <p class="small">Fill out the form to contact Shertatech directly...</p>
                     </div>
                     <div class="row justify-content-start my-5">
                         <div>
