@@ -1,5 +1,5 @@
 <script>
-    export let PageHeaderInfo=["Premium UAE ERP solutions","+971 2 555 8686","+971 50 211 3555","sales@shertatechservices.com"]
+    export let PageHeaderInfo=["Premium UAE ERP solutions","+971 02 555 8686","+971 050 211 3555","sales@shertatechservices.com"]
 </script>
 
 <section>

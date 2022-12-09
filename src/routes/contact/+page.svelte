@@ -30,12 +30,12 @@
                 <div>
 
                     <div class="small">sales@shertatechservices.com</div>
-                    <div class="small">+971 2 555 8686</div>
-                    <div class="small">+971 50 211 3555</div>
+                    <div class="small">+971 02 555 8686</div>
+                    <div class="small">+971 050 211 3555</div>
                     <div class="small">Office No 18, Building No 81,</div>
                     <div class="small">Musaffah M16, Abu Dhabi, UAE</div>
                     <div class="mt-2">
-                        <a href="https://wa.me/+971505340345" target="_blank" rel="noreferrer"
+                        <a href="https://wa.me/+971502113555" target="_blank" rel="noreferrer"
                             class="btn btn-sm btn-success text-light"><i class="bi bi-whatsapp"></i> Whatsapp</a>
                     </div>
 
