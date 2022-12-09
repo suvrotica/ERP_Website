@@ -37,9 +37,7 @@
                 <li class="nav-item">
                     <a href="/pricing" class="nav-link"><i class="bi bi-tags-fill"></i></a>
                 </li>
-                <li class="nav-item ms-2 d-none d-md-inline">
-                    <a href="https://shertatechservices.com/prospectivecustomers" class="btn btn-primary">Quote</a>
-                </li>
+                
                 </ul>
     
     
