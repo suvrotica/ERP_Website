@@ -28,7 +28,7 @@
         { url: 'https://www.shertatechservices.com/img/phn.png' },
         { url: 'https://www.shertatechservices.com/img/quality.png' }
       ],
-      site_name: 'Shertatech Services and Solutions'
+      site_name: 'Shertatech Services and Solutions UAE'
     }}
     
   />
