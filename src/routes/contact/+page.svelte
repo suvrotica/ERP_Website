@@ -30,8 +30,8 @@
                 <div>
 
                     <div class="small">sales@shertatechservices.com</div>
-                    <div class="small">+971 02 555 8686</div>
-                    <div class="small">+971 050 211 3555</div>
+                    <div class="small">+971 2 555 8686</div>
+                    <div class="small">+971 50 211 3555</div>
                     <div class="small">Office No 18, Building No 81,</div>
                     <div class="small">Musaffah M16, Abu Dhabi, UAE</div>
                     <div class="mt-2">
