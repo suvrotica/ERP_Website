@@ -69,6 +69,7 @@
                         and
                         month end
                         depreciation and accrual process automation</li>
+                        <li class="list-group-item small text-muted">Multi Company ledgers/books in a single login with secured user privilege</li>
                 </ul>
             </div>
         </div>
